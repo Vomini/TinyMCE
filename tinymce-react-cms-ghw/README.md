@@ -2,19 +2,18 @@
 
 **Presenter:** Mrina Sugosh (Tiny MCE)
 
-## Goal
+## Features
 
-In this workshop, developers will learn how to set up and customize TinyMCE to create a powerful and flexible Content Management System (CMS). From basic editor setup to adding advanced features like AI-powered content assistance, accessibility, and version control, this session will guide you through creating a rich text editor tailored for a CMS.
+Set up and customize TinyMCE to create a powerful and flexible Content Management System (CMS). From basic editor setup to adding advanced features like AI-powered content assistance, accessibility, and version control, this session will guide you through creating a rich text editor tailored for a CMS.
 
 - Set up TinyMCE within the React project.
 - Integrate open-source plugins to enhance core rich text editing features.
 - Add accessibility features or spellcheck to improve usability.
-- Implement version control with the Revision History plugin.
 - Add AI-powered content assistance using the AI Assistant.
 
 ## Prerequisites
 
-- [Clone Boilerplate Code](https://github.com/mrinasugosh/tinymce-react-cms-ghw.git)
+- [Clone Boilerplate Code](https://github.com/Vomini/tinymce-react-cms-ghw.git)
 - [TinyMCE Cloud Account](https://www.tiny.cloud/get-tiny/?utm_campaign=mlh_devrel_global_hackweek&utm_source=mlh&utm_medium=referral&utm_term=github)
 - [OpenAI API Account](https://platform.openai.com)
 
@@ -57,6 +56,3 @@ This will run the app in the development mode. Open [http://localhost:8080](http
 - **Free Trial:** Get started with TinyMCE for free at [TinyMCE Free Trial](https://tiny.cloud/pricing/?utm_campaign=mlh_devrel_global_hackweek&utm_source=mlh&utm_medium=referral&utm_term=github).
 - **Installing TinyMCE:** Follow the instructions at [Installing TinyMCE](https://www.tiny.cloud/docs/tinymce/latest/react-cloud/?utm_campaign=mlh_devrel_global_hackweek&utm_source=mlh&utm_medium=referral&utm_term=github).
 
-## Questions?
-
-If you have any questions or issues, please reach out via GitHub or contact support via [TinyMCE Contact Us Form](https://www.tiny.cloud/contact/?utm_campaign=mlh_devrel_global_hackweek&utm_source=mlh&utm_medium=referral&utm_term=github).

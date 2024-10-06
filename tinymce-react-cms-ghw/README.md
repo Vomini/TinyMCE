@@ -1,6 +1,6 @@
 # TinyMCE MLH Global Hackweek Workshop: Building a Customizable Rich Text Editor for a CMS
 
-**Presenter:** Mrina Sugosh (Tiny MCE)
+
 
 ## Features
 
